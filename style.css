@@ -1,0 +1,227 @@
+/* ============================================
+   Long Hui CV — Screen + Print Styles
+   ============================================ */
+
+/* --- Reset & Base --- */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.45;
+  color: #2c2c2c;
+  background: #f4f4f4;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Page Container --- */
+
+.page {
+  max-width: 210mm;
+  margin: 20px auto;
+  padding: 40px 48px;
+  background: #fff;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12);
+}
+
+/* --- Header --- */
+
+header {
+  text-align: center;
+  margin-bottom: 18px;
+}
+
+header h1 {
+  font-size: 22pt;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #2c2c2c;
+  margin-bottom: 6px;
+}
+
+.contact-bar {
+  font-size: 9.5pt;
+  color: #555;
+}
+
+.contact-bar a {
+  color: #2a5db0;
+  text-decoration: none;
+}
+
+.contact-bar a:hover {
+  text-decoration: underline;
+}
+
+.sep {
+  margin: 0 6px;
+  color: #999;
+}
+
+/* --- Section Headings --- */
+
+h2 {
+  font-size: 12pt;
+  font-weight: 700;
+  color: #2a5db0;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  border-bottom: 1.5px solid #2a5db0;
+  padding-bottom: 3px;
+  margin-bottom: 10px;
+  margin-top: 16px;
+}
+
+/* --- Profile --- */
+
+.profile p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* --- Experience & Education Entries --- */
+
+.entry {
+  margin-bottom: 12px;
+}
+
+.entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.entry-header h3 {
+  font-size: 10.5pt;
+  font-weight: 700;
+  color: #2c2c2c;
+}
+
+.date {
+  font-size: 9.5pt;
+  color: #555;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 12px;
+}
+
+.role {
+  font-style: italic;
+  font-size: 10pt;
+  color: #555;
+  margin-bottom: 4px;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 2px;
+}
+
+li {
+  margin-bottom: 2px;
+}
+
+/* --- Skills --- */
+
+dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 14px;
+}
+
+dt {
+  font-weight: 700;
+  font-size: 10pt;
+  white-space: nowrap;
+}
+
+dd {
+  font-size: 10pt;
+}
+
+/* --- Education --- */
+
+.education .entry {
+  margin-bottom: 6px;
+}
+
+/* --- Footer --- */
+
+footer {
+  margin-top: 20px;
+  text-align: right;
+}
+
+.last-updated {
+  font-size: 8.5pt;
+  color: #999;
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+
+@media print {
+  @page {
+    margin: 15mm;
+  }
+
+  body {
+    background: none;
+    font-size: 10pt;
+    color: #000;
+  }
+
+  .page {
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  h1, h2, h3, .entry-header h3 {
+    color: #000;
+  }
+
+  h2 {
+    border-bottom-color: #000;
+  }
+
+  .contact-bar,
+  .contact-bar a,
+  .date,
+  .role,
+  .sep {
+    color: #333;
+  }
+
+  .contact-bar a {
+    text-decoration: none;
+  }
+
+  a[href]::after {
+    content: none;
+  }
+
+  .entry {
+    page-break-inside: avoid;
+  }
+
+  .skills {
+    page-break-inside: avoid;
+  }
+
+  .education {
+    page-break-inside: avoid;
+  }
+
+  .last-updated {
+    color: #666;
+  }
+}
