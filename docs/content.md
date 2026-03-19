@@ -2,19 +2,24 @@
 
 ## Personal Statement
 
-Business-minded technologist with a decade of experience spanning AI engineering, project management, and process consulting across Hong Kong, Shanghai, and Guangzhou. A UC Berkeley Applied Mathematics graduate at 19, I approach every engagement by understanding the business problem first — then designing and building the solution. From agentic AI systems and workflow automation to team processes and compliance frameworks, I help organisations bridge the gap between what the business needs and what technology can deliver. Currently focused on helping small-to-medium enterprises adopt AI and automation to streamline operations and unlock new capabilities.
+- **Business-first technologist** with 10 years spanning AI engineering, project management, and process consulting
+- **UC Berkeley Applied Mathematics graduate** (graduated at 19) — technical depth with business pragmatism
+- **Agentic AI practitioner** — structure prompts and context patterns to enable AI agents to handle multi-step workflows autonomously
+- **Start every engagement** by understanding the actual problem before committing to solutions
+- **Hands-on builder** — from agentic AI systems and workflow automation to team processes and compliance frameworks
 
 ---
 
 ## Experience
 
 ### Sky Long AI Company Limited, Hong Kong
-**CEO / AI Engineer** (2024 – Present)
+**CEO / AI Engineer** (2024 – Feb 2026)
 
-- Founded an AI consultancy developing medical AI software and automation solutions for businesses
+- Built agentic AI pipelines for end-to-end data processing — from raw inputs to clean outputs, using autonomous agents
+- Leverage Claude Code for rapid development, structuring effective context patterns for reliable AI-assisted workflows
+- Founded an AI consultancy developing medical AI software — using deep learning on X-ray images to predict bone density, traditionally requiring DXA scans
 - Published 3 research papers on modern AI methodologies applied to healthcare
-- Leverage agentic AI tools (e.g., Claude Code) and RPA/OCR automation to accelerate development and streamline client workflows
-- Advise small-to-medium enterprises on AI adoption strategy, from feasibility assessment to production deployment
+- Scope projects around business ROI before committing engineering resources
 
 ### Intron Technology (China) Limited, Shanghai
 **Software Engineer / Process Engineer** (2018 – 2024)
@@ -31,11 +36,6 @@ Business-minded technologist with a decade of experience spanning AI engineering
 - Provided consultation to clients, translating business needs into technical requirements
 - Managed project delivery using structured workflows and issue tracking
 
-### Sylvan Education, California
-**Teacher / Teacher Manager** (Jan – Jul 2016)
-
-- Managed classroom instruction, developing communication and leadership skills
-
 ---
 
 ## Skills
@@ -49,5 +49,5 @@ Business-minded technologist with a decade of experience spanning AI engineering
 
 ## Education & Certifications
 
-- **University of California, Berkeley** — B.A. Applied Mathematics, 2015 (graduated at age 19)
+- **University of California, Berkeley** — B.A. Applied Mathematics (graduated at age 19)
 - **intacs Certified Provisional Assessor** — Automotive SPICE

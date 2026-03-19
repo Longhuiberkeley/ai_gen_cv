@@ -2,7 +2,11 @@
 
 ## Personal Statement
 
-A results-driven AI Engineer with a strong foundation in Applied Mathematics from UC Berkeley and hands-on international experience in Hong Kong and Shanghai. Expert in developing and deploying innovative machine learning solutions from concept to production. Proven ability to accelerate development cycles by leveraging agentic AI tools (e.g., Claude Code) and cloud platforms (AWS, GCP). Passionate about bridging the gap between theoretical AI concepts and practical, high-impact applications.
+- **Business-first technologist** with 10 years spanning AI engineering, project management, and process consulting
+- **UC Berkeley Applied Mathematics graduate** (graduated at 19) — technical depth with business pragmatism
+- **Agentic AI practitioner** — structure prompts and context patterns to enable AI agents to handle multi-step workflows autonomously
+- **Start every engagement** by understanding the actual problem before committing to solutions
+- **Hands-on builder** — from agentic AI systems and workflow automation to team processes and compliance frameworks
 
 ---
 
@@ -36,12 +40,13 @@ A results-driven AI Engineer with a strong foundation in Applied Mathematics fro
 ## Experience
 
 ### Sky Long AI Company Limited, Hong Kong
-**CEO / AI Engineer** (Mid 2024 – Present)
+**CEO / AI Engineer** (2024 – Feb 2026)
 
-- Adept at leveraging AI for efficient code generation and developing innovative medical AI software
-- Published several papers demonstrating expertise in modern AI methodologies and their application in healthcare
-- Leverage agentic AI tools (e.g., Claude Code) and RPA/OCR automation to accelerate development and streamline client workflows
-- Advise small-to-medium enterprises on AI adoption strategy, from feasibility assessment to production deployment
+- Built agentic AI pipelines for end-to-end data processing — from raw inputs to clean outputs, using autonomous agents
+- Leverage Claude Code for rapid development, structuring effective context patterns for reliable AI-assisted workflows
+- Founded an AI consultancy developing medical AI software — using deep learning on X-ray images to predict bone density, traditionally requiring DXA scans
+- Published 3 research papers on modern AI methodologies applied to healthcare
+- Scope projects around business ROI before committing engineering resources
 
 ### Intron Technology (China) Limited, Shanghai
 **Software Engineer / Process Engineer (Automotive Software)** (June 2018 – January 2024)
@@ -61,17 +66,11 @@ A results-driven AI Engineer with a strong foundation in Applied Mathematics fro
 - Maintained good communication and provided consultation to clients
 - Translated business needs into technical requirements
 
-### Sylvan Education, California
-**Teacher / Teacher Manager** (January 2016 – July 2016)
-
-- Managed classroom instruction, developing communication and leadership skills
-
 ---
 
 ## Education & Certifications
 
-- **University of California, Berkeley** — B.A. Applied Mathematics (August 2014 – September 2015)
-  - Graduated at the age of 19
+- **University of California, Berkeley** — B.A. Applied Mathematics (graduated at age 19)
 - **intacs Certified Provisional Assessor** — Automotive SPICE
 
 ---
