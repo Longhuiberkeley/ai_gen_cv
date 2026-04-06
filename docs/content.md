@@ -2,10 +2,10 @@
 
 ## Personal Statement
 
-- **Business-first technologist** with 10 years spanning AI engineering, project management, and process consulting
+- **Business-first technologist** spanning AI engineering, project management, and process consulting
 - **UC Berkeley Applied Mathematics graduate** (graduated at 19) — technical depth with business pragmatism
 - **Agentic AI practitioner** — structure prompts and context patterns to enable AI agents to handle multi-step workflows autonomously
-- **Start every engagement** by understanding the actual problem before committing to solutions
+- **Problem-first approach** — understand the real business need before building
 - **Hands-on builder** — from agentic AI systems and workflow automation to team processes and compliance frameworks
 
 ---
@@ -13,13 +13,13 @@
 ## Experience
 
 ### Sky Long AI Company Limited, Hong Kong
-**CEO / AI Engineer** (2024 – Feb 2026)
+**CEO / AI Engineer** (2024 – Mar 2026)
 
 - Built agentic AI pipelines for end-to-end data processing — from raw inputs to clean outputs, using autonomous agents
-- Leverage Claude Code for rapid development, structuring effective context patterns for reliable AI-assisted workflows
+- Leveraged Claude Code for rapid development, structuring effective context patterns for reliable AI-assisted workflows
 - Founded an AI consultancy developing medical AI software — using deep learning on X-ray images to predict bone density, traditionally requiring DXA scans
 - Published 3 research papers on modern AI methodologies applied to healthcare
-- Scope projects around business ROI before committing engineering resources
+- Scoped projects around business ROI before committing engineering resources
 
 ### Intron Technology (China) Limited, Shanghai
 **Software Engineer / Process Engineer** (2018 – 2024)
