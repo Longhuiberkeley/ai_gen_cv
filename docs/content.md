@@ -2,24 +2,22 @@
 
 ## Personal Statement
 
-- **Business-first technologist** spanning AI engineering, project management, and process consulting
-- **UC Berkeley Applied Mathematics graduate** (graduated at 19) — technical depth with business pragmatism
-- **Agentic AI practitioner** — structure prompts and context patterns to enable AI agents to handle multi-step workflows autonomously
-- **Problem-first approach** — understand the real business need before building
-- **Hands-on builder** — from agentic AI systems and workflow automation to team processes and compliance frameworks
+- **Technical product leader** spanning AI engineering, project management, and process consulting — with a bias toward shipping
+- **UC Berkeley Applied Mathematics graduate** (graduated at 19) — analytical rigour behind every product decision
+- **Problem-first, outcome-driven** — scope the business need first, then commit engineering resources to what actually moves the needle
+- **Pragmatic builder** — equally comfortable drafting the SOP, writing the spec, and getting into the code to unblock delivery
 
 ---
 
 ## Experience
 
 ### Sky Long AI Company Limited, Hong Kong
-**CEO / AI Engineer** (2024 – Mar 2026)
+**Founder / Product Lead** (2024 – Mar 2026)
 
-- Built agentic AI pipelines for end-to-end data processing — from raw inputs to clean outputs, using autonomous agents
-- Leveraged Claude Code for rapid development, structuring effective context patterns for reliable AI-assisted workflows
-- Founded an AI consultancy developing medical AI software — using deep learning on X-ray images to predict bone density, traditionally requiring DXA scans
-- Published 3 research papers on modern AI methodologies applied to healthcare
-- Scoped projects around business ROI before committing engineering resources
+- Led product development of medical AI software as founder — owning requirements, roadmap, and client delivery end-to-end
+- Scoped all projects around business ROI before committing engineering resources; shipped a bone-density prediction system replacing DXA scans
+- Built and managed agentic AI workflows (using Claude Code) for automated data processing — hands-on technical ownership
+- Published 3 research papers on applied healthcare AI methodologies
 
 ### Intron Technology (China) Limited, Shanghai
 **Software Engineer / Process Engineer** (2018 – 2024)
@@ -40,9 +38,9 @@
 
 ## Skills
 
-- **AI & Automation**: Gen AI, agentic AI (Claude Code), computer vision, RPA, OCR, model development (PyTorch, YOLO, XGBoost, PaddlePaddle)
-- **Software & Cloud**: Python, JavaScript/Next.js, Supabase, AWS, GCP, Git, Bash
-- **Process & Consulting**: Agile, Automotive SPICE, SOP development, test strategy, AI adoption consulting
+- **Project & Product Management**: End-to-end product lifecycle, Agile, SOP development, stakeholder management, requirements translation, AI adoption consulting
+- **AI & Automation**: Generative AI, agentic pipelines, computer vision, RPA, OCR, model development (PyTorch, YOLO, XGBoost)
+- **Software & Cloud**: Python, JavaScript/Next.js, Supabase, AWS, GCP, Git
 - **Languages**: English, Cantonese, Mandarin (fluent)
 
 ---
